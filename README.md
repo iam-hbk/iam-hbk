@@ -1,4 +1,4 @@
-<img src="images/banner.png">
+<img src="/images/Banner.png">
 
 <p><a href="https://twitter.com/2207_hbk"><img src="https://img.shields.io/twitter/follow/2207_hbk?logo=twitter&style=for-the-badge"></a></p>
 
