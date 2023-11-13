@@ -1,6 +1,8 @@
 <img src="images/banner.png">
 
-<p><a href="https://twitter.com/2207_hbk"><img src="https://img.shields.io/twitter/follow/2207_hbk?logo=twitter&style=for-the-badge"></a></p>
+[![Twitter](https://img.shields.io/twitter/follow/2207_hbk?style=social)](https://twitter.com/2207_hbk)
+[![LinkedIn](https://img.shields.io/badge/-Heritier%20Kaumbu-blue?style=flat-square&logo=linkedin)](https://za.linkedin.com/in/heritierkaumbu)
+
 
 <p align="center">
   Hi, my name is Heritier Kaumbu, a developer proficient in Javascript and Python and familiar with various technologies. I'm passionate about developing innovative solutions and continuously expanding my skill set.
