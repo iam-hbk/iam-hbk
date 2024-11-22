@@ -1,6 +1,6 @@
 <img src="images/Banner.png">
 
-[![Twitter](https://img.shields.io/twitter/follow/2207_hbk?style=social)](https://twitter.com/2207_hbk)
+[![Twitter](https://img.shields.io/twitter/follow/2207_hbk?style=social)](https://twitter.com/heritierhbk)
 [![LinkedIn](https://img.shields.io/badge/-Heritier%20Kaumbu-blue?style=flat-square&logo=linkedin)](https://za.linkedin.com/in/heritierkaumbu)
 
 
